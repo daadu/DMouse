@@ -1,4 +1,6 @@
 // DMouse develpoed by Dhaval Palsana  www.robofreaksindia.wordpress.com
+
+//Initated by : Dhaval Palsana
  
 #include "stdafx.h"
 #include "windows.h"
